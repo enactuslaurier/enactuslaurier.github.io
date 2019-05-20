@@ -29,6 +29,8 @@
   transition: -webkit-transform 1600ms, transform 1600ms;
   -webkit-transform: scale(1);
   transform: scale(1);
+  background-size: 100% 100%;
+
 }
 
 /* Slides Background Color */

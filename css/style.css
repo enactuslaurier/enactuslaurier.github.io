@@ -1229,7 +1229,7 @@ h6 {
 #footer {
   padding: 0 0 30px 0;
   font-size: 14px;
-  background: #fff;
+  background: #f5f8fd;
 }
 
 #footer .footer-top {
@@ -1288,6 +1288,10 @@ h6 {
   text-transform: uppercase;
   position: relative;
   padding-bottom: 10px;
+}
+
+.verticalLine {
+  border-left: thick solid #000;
 }
 
 #footer .footer-top .footer-links {
@@ -1514,6 +1518,15 @@ h6 {
   #pricing .card {
     margin-bottom: 50px;
   }
+}
+
+#e-img{
+  max-width: 650px;
+  max-height: 488px; 
+}
+
+#office-info{
+  max-width: 100%;
 }
 
 @media (max-width: 768px) {
